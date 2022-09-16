@@ -21,7 +21,7 @@ i am also an open-source enthusiast. i've learned a lot from the open-source com
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 wanna collaborate ? do reach me at, [email](mailto:sewah2012@gmail.com), :)
+- 💼 wanna collaborate ? do reach me, [here](mailto:sewah2012@gmail.com), :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
