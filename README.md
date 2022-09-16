@@ -19,7 +19,7 @@ hi, i'm [Emmanuel Sahr Sewah](https://www.linkedin.com/in/emmanuelsahrsewah/), a
 i am also an open-source enthusiast. i've learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://github.com/sewah2012/sewah2012/blob/master/code.gif)" width="500" height="320" />
   
 - 💼 wanna collaborate ? do reach me, [here](mailto:sewah2012@gmail.com), :)
 - 💬 ask me about anything, i am happy to help;
