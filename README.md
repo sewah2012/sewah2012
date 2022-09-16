@@ -14,7 +14,7 @@
 
 <br />
 
-hi, i'm [Emmanuel Sahr Sewah](https://www.linkedin.com/in/emmanuelsahrsewah/, a Software Developer skilled in developing Full Stack web and business intelligence solutions for diverse industry clients. Highly instrumental in all phases of the SDLC, with expertise in Java/JEE, Springboot, React, Node & Express, SQL, AWS, Docker, Kubernetes, Git, etc. I am Successful in developing bespoke solutions, optimizing business procedures, processes, and productivity.
+hi, i'm [Emmanuel Sahr Sewah](https://www.linkedin.com/in/emmanuelsahrsewah/), a Software Developer skilled in developing Full Stack web and business intelligence solutions for diverse industry clients. Highly instrumental in all phases of the SDLC, with expertise in Java/JEE, Springboot, React, Node & Express, SQL, AWS, Docker, Kubernetes, Git, etc. I am Successful in developing bespoke solutions, optimizing business procedures, processes, and productivity.
 
 i am also an open-source enthusiast. i've learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
