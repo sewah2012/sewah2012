@@ -41,7 +41,7 @@ i am also an open-source enthusiast. i've learned a lot from the open-source com
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sewah2012&show_icons=true&theme=gotham" alt="emmanuelsewah" />
 
 
 
