@@ -7,7 +7,7 @@
   <img align="left" alt="Emmanuel Sewah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/emmanuelsahrsewah/">
-  <img align="left" alt="Emmanuel's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BZkux1flbQZCQpT%2BjEhwXxQ%3D%3D" />
+  <img align="left" alt="Emmanuel's Linkedin" width="22px" src="https://github.com/sewah2012/sewah2012/blob/master/icons8-linkedin-48.png?raw=true" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
